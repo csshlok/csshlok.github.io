@@ -16,4 +16,9 @@ body {
   background: white;
 }
 
-
+.sidebar {
+  width: 200px;
+  height: calc(100% - 100px);
+  margin: auto 0;
+  position: fixed;
+}
