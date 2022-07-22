@@ -1,3 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  color: black;
+  background: white;
+}
+
+
 /* About */
 
 
@@ -316,5 +333,3 @@ width: 56px;
 height: 56px;
 left: 1046px;
 top: 1899px;
-
-background: url(/images/image-removebg-preview 1.png);
